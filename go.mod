@@ -13,7 +13,6 @@ require (
 	github.com/miekg/dns v1.1.4 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8 // indirect
-	github.com/v2fly/v2ray-core v4.15.0+incompatible // indirect
 	go.starlark.net v0.0.0-20190225160109-1174b2613e82 // indirect
 	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83 // indirect
 	golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3 // indirect

@@ -19,8 +19,6 @@ github.com/shadowsocks/go-shadowsocks2 v0.1.5 h1:PDSQv9y2S85Fl7VBeOMF9StzeXZyK1H
 github.com/shadowsocks/go-shadowsocks2 v0.1.5/go.mod h1:AGGpIoek4HRno4xzyFiAtLHkOpcoznZEkAccaI/rplM=
 github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8 h1:TG/diQgUe0pntT/2D9tmUCz4VNwm9MfrtPr0SU2qSX8=
 github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8/go.mod h1:P5HUIBuIWKbyjl083/loAegFkfbFNx5i2qEP4CNbm7E=
-github.com/v2fly/v2ray-core v4.15.0+incompatible h1:jHEKDQbfHWrmv158NV6z9SaFxCBjeYMxN1AraGPIGkM=
-github.com/v2fly/v2ray-core v4.15.0+incompatible/go.mod h1:epN2U0U1wJttla319Jy2mbBt4oSGymOR+BN8wZRNITA=
 go.starlark.net v0.0.0-20190225160109-1174b2613e82 h1:vAHCTDREx7LqPeWqNeTvCKWcURJztP3wBKnF2Q0sW7Q=
 go.starlark.net v0.0.0-20190225160109-1174b2613e82/go.mod h1:c1/X6cHgvdXj6pUlmWKMkuqRnW4K8x2vwt6JAaaircg=
 golang.org/x/crypto v0.0.0-20190208162236-193df9c0f06f/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
@@ -54,5 +52,3 @@ h12.io/socks v1.0.0/go.mod h1:MdYbo5/eB9ka7u5dzW2Qh0iSyJENwB3KI5H5ngenFGA=
 honnef.co/go/tools v0.0.0-20180728063816-88497007e858/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 v2ray.com/core v4.19.1+incompatible h1:JWoYsYlCpFOJX5KcmSkAMHOqOjzux+wx/HtgMBkUvSg=
 v2ray.com/core v4.19.1+incompatible/go.mod h1:0yC/gG6Jd6qgp9PuaXuFE9uOi1xVYoDPexD1nlFms/w=
-v2ray.com/ext v4.15.0+incompatible h1:ynO0ZV+KoTdMpV4zzcDA1aVeBifyjouvjGKi4XEkTJs=
-v2ray.com/ext v4.15.0+incompatible/go.mod h1:pF9xbCGh58MQnB3H/oM8WakrLHkcp0JGMmcvXE1rZWQ=

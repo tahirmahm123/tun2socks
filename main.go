@@ -109,7 +109,7 @@ func main() {
 	args.TunAddr = flag.String("tunAddr", "240.0.0.2", "TUN interface address")
 	args.TunGw = flag.String("tunGw", "240.0.0.1", "TUN interface gateway")
 	args.TunMask = flag.String("tunMask", "255.255.255.0", "TUN interface netmask, as for IPv6, it's the prefixlen")
-	args.TunDns = flag.String("tunDns", "114.114.114.114,223.5.5.5", "DNS resolvers for TUN interface (only need on Windows)")
+	args.TunDns = flag.String("tunDns", "1.1.1.1,8.8.8.8", "DNS resolvers for TUN interface (only need on Windows)")
 	args.ProxyType = flag.String("proxyType", "socks", "Proxy handler type, e.g. socks, shadowsocks, v2ray")
 	args.DelayICMP = flag.Int("delayICMP", 10, "Delay ICMP packets for a short period of time, in milliseconds")
 	args.LogLevel = flag.String("loglevel", "info", "Logging level. (debug, info, warn, error, none)")
