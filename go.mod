@@ -21,5 +21,3 @@ require (
 	google.golang.org/genproto v0.0.0-20180831171423-11092d34479b // indirect
 	google.golang.org/grpc v1.18.0 // indirect
 )
-
-replace github.com/tahirmahm123/go-tun2socks => ../tun2socks-project
