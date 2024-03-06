@@ -1,5 +1,5 @@
 # Client for Tun2Socks
-This project uses Tun2Sock Library from [Tun2Sock Core](github.com/tahirmahm123/go-tun2socks) which is actually a [fork](github.com/benchibench/go-tun2socks) but original code exists only on [Go Packages](https://pkg.go.dev/github.com/benchibench/go-tun2socks)
+This project uses Tun2Sock Library from [Tun2Sock Core](https://github.com/tahirmahm123/go-tun2socks) which is actually a [fork](https://github.com/benchibench/go-tun2socks) but original code exists only on [Go Packages](https://pkg.go.dev/github.com/benchibench/go-tun2socks)
 
 This repo is a simple client to use tun2socks.
 
