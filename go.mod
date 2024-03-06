@@ -4,7 +4,7 @@ go 1.22.0
 
 require (
 	github.com/shadowsocks/go-shadowsocks2 v0.1.5
-	github.com/tahirmahm123/go-tun2socks v1.16.11
+	github.com/tahirmahm123/go-tun2socks v1.0.0
 	v2ray.com/core v4.19.1+incompatible
 )
 
