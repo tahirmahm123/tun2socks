@@ -159,8 +159,8 @@ After Exit Make sure to remove routes
 ```sh
 route delete default
 route delete 240.0.0.1
-route delete 1.2.3.4/32 192.168.1.1
-route add default 192.168.1.1
+route delete 1.2.3.4/32 192.168.0.1
+route add default 192.168.0.1
 ```
 ### Linux
 
